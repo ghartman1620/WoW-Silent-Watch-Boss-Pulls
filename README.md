@@ -1,0 +1,1 @@
+This repository contains code for a project to collect and analyze WarcraftLogs data to gain insights as to which players tend to pull the bosses early.
